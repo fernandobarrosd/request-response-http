@@ -3,3 +3,5 @@ This repository show the Request/Response HTTP apresentation, created with Figma
 
 
 ## Apresentation
+
+<img src="/Request_Response HTTP.jpg" width="600">
